@@ -1,0 +1,16 @@
+#include "DigiKeyboard.h"
+
+boolean didRun = false;
+
+void setup() {}
+
+void loop() {
+  while (didRun == false) {
+    DigiKeyboard.sendKeyStroke(KEY_SPACE, MOD_GUI_LEFT);
+    DigiKeyboard.delay(300);
+    DigiKeyboard.println("terminal");
+    DigiKeyboard.delay(300);
+    DigiKeyboard.println("open https://github.com/harisqazi1");
+    didRun = true;
+  }
+}
