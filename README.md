@@ -2,7 +2,6 @@
 Code for Rubby Ducky (Malicious USB / Bad USB) made from Digispark Kickstarter ATTINY85 Development Board
 
 Purpose:
-
 To make an inexpensive Rubber Ducky for MacOS
 
 Materials:
