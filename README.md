@@ -15,3 +15,9 @@ Tutorials:
 https://digistump.com/wiki/digispark/tutorials/connecting
 
 https://aminbohio.com/creating-a-cheap-rubber-ducky-aka-bad-usb-with-attiny85/
+
+File Descriptors:
+
+Github Payload.txt = A payload to run a webpage (in this case a GitHub page)
+
+MacOS_BadUSB_Payload.py = A work in progress python code which automatically generates payloads for you based on your needs
